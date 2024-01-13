@@ -1,0 +1,22 @@
+ <div> <div class="row"> 
+                        <div class="four col-md-3">
+                            <div class="counter-box"> 
+                                
+                            </div>
+                        </div>
+                        <div class="four col-md-3">
+                            <div class="counter-box"><span class="counter"><i class="fa-solid fa-user"></i> 557</span>
+                                <p>Specialist Doctors</p>
+                            </div>
+                        </div>
+                        <div class="four col-md-3">
+                            <div class="counter-box"><span class="counter"><i class="fa-solid fa-face-smile"></i> 4379</span>
+                                <p>Happy Patients</p>
+                            </div>
+                        </div>
+                        <div class="four col-md-3">
+                            <div class="counter-box"><span class="counter"><i class="fa-solid fa-calendar-days"></i> 32</span>
+                                <p>Years of Experience</p>
+                            </div>
+                        </div>
+                    </div></div>

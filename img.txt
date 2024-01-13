@@ -1,0 +1,14 @@
+<div class="row justify-content-center">
+                    <div class="col-3">
+                        <img src="./image/image1.webp" alt="image1" style="width: 240px; height: 260px;">
+                    </div>
+                    <div class="col-3">
+                        <img src="./image/image2.avif" alt="image2" style="width: 240px; height: 260px;">
+                    </div>
+                    <div class="col-3">
+                        <img src="./image/image3.jpg" alt="image3" style="width: 240px; height: 260px;">
+                    </div>
+                    <div class="col-3">
+                        <img src="./image/image4.avif" alt="image4" style="width: 240px; height: 260px;">
+                    </div>
+                </div>
