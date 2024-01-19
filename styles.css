@@ -118,7 +118,7 @@ h5 {
 
 
 .owlct {
-  background-color: rgb(154, 154, 225);
+  background-color: rgb(171, 171, 234);
   background-image: url(./image/doctorconsultion.avif);
   background-repeat: no-repeat;
   background-size: cover;
@@ -183,7 +183,7 @@ h5 {
 
 /* icon overlay counter start*/
 .showcase {
-  background-color: rgb(154, 154, 225);
+  background-color: rgb(171, 171, 234);
   background-image: url(./image/hand-shakes.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -292,7 +292,7 @@ h5 {
 
 /* image gallery start */
 .bgoverlayimg {
-    background-color: rgb(147, 147, 216);
+    background-color: rgb(171, 171, 234);
     background-image: url(./image/second-slider.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -343,7 +343,7 @@ div.gallery img {
 
 /* logo section start */
 .logobgoverlay {
-    background-color: rgb(147, 147, 216);
+    background-color: rgb(171, 171, 234);
     background-image: url(./image/second-slider.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -401,7 +401,7 @@ div.gallery img {
 
 /* profile overlay start */
 .profileoverlay {
-    background-color: rgb(147, 147, 216);
+    background-color: rgb(171, 171, 234);
     background-image: url(./image/doctor-patient.avif);
     background-repeat: no-repeat;
     background-size: cover;
@@ -412,3 +412,11 @@ div.gallery img {
 }
 /* profile overlay end */
 
+/* nav tab for diagnose diseases start */
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  border-top: #FFFFFF;
+  border-right: #FFFFFF;
+  border-left: #FFFFFF;
+  border-bottom: 3px solid #8445e8;
+}
+/* nav tab for diagnose diseases end */
