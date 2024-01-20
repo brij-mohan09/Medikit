@@ -1,2 +1,2 @@
-Medikit
-# A design Web Page for medical website.
+## Medikit
+only homepage design of the Web Page for medical website.
